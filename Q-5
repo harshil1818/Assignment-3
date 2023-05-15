@@ -1,0 +1,5 @@
+user_string = input("Enter a string: ") #asking the user to input a value
+if "name" in user_string:
+    print("Yes")
+else:
+    print("No")
